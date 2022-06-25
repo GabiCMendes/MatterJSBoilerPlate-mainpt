@@ -26,8 +26,8 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
   
+  background("yellow")
   drawSprites();
  
 }
